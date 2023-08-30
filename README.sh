@@ -1,6 +1,3 @@
-# Intrusion-Detection-System-IDS-Log-Analyzer
-
-The cose: 
 
 #!/bin/bash
 
