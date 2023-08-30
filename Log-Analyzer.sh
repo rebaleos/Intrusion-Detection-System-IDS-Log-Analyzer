@@ -2,7 +2,7 @@
 #!/bin/bash
 
 # Intrusion Detection System (IDS) Log Analyzer
-# Author: Your Name
+# Author: Rebak
 # Description: Analyzes various log files to detect potential security breaches.
 
 # Define paths to log files
